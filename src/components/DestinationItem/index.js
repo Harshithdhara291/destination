@@ -12,4 +12,4 @@ const DestinationItem = props => {
   )
 }
 
-module.exports = DestinationItem
+export default DestinationItem
